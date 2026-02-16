@@ -9,7 +9,7 @@ const works = [
       "英国の研究機関にて開催された国際イベントのPMを担当。日本の中小企業経営者に随行し、イベント企画・設営・運営・現地調整を完遂。日英のステークホルダー間の調整を積み重ね、プロジェクトを成功へ導いた。",
     tags: ["PM", "グローバル", "イベント企画", "英語対応"],
     env: "英語・日本語、現地対応",
-    url: undefined,
+    url: "https://earthmk2-lab.com/Harwell_Japan/Innovation_Community.html",
   },
   {
     title: "大型アニメIP デジタルプロモーション",
