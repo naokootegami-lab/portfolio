@@ -18,6 +18,7 @@ const skillCategories = [
       "バイブコーディング（Vibe Coding）",
       "サーバー・ドメイン管理",
       "AI活用制作（AIプロンプター）",
+      "生成AIマーケティング（DMM AI CAMP修了）",
     ],
   },
   {

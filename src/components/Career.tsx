@@ -86,6 +86,14 @@ export default function Career() {
             保有資格・その他
           </h3>
           <div className="flex flex-wrap gap-3">
+            <a
+              href="https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/N2dwSnJuREF0cmN6aE85Ky9XYkQ0dz09"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm px-4 py-2 rounded-lg bg-accent border border-primary/20 text-primary hover:bg-primary hover:text-white transition-colors"
+            >
+              DMM 生成AI CAMP 基礎マスター+マーケティングコース 修了（2025年）
+            </a>
             <span className="text-sm px-4 py-2 rounded-lg bg-gray-50 border border-gray-200 text-gray-700">
               普通自動車運転免許
             </span>
